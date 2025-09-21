@@ -4,7 +4,7 @@ import Header from './Header'
 
 function App() {
   return(
-    <Header name="DougDev" links = {["About", "Buy", "Contact"]}></Header>
+    <Header name="DougDev" links = {["About", "Buy", "Contact", "Login"]}></Header>
   )
 }
 
